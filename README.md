@@ -1,2 +1,3 @@
 # Pub-Storage-Adapters
-:honeybee: Storage Adapters Monorepo for Pub
+
+Storage Adapters Monorepo for Pub
